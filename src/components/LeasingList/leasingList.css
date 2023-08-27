@@ -1,0 +1,23 @@
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+.column{
+    display: flex;
+}
+
+button{
+    width: 100%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    gap: 15px;
+}
+
+select{
+    font-size: 25px;
+}
